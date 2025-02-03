@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/u4c5_temporizadores_one_shot.hex'
+elf = 'build/u4c5_temporizadores_one_shot.elf'
